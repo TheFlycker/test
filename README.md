@@ -1,3 +1,5 @@
 # test
-test
-hola mundo, desde mi VScode a mi git
+test \n
+hola mundo, desde mi VScode a mi git  \n
+
+otra cosa
